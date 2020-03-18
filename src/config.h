@@ -1,0 +1,6 @@
+#define LED_PIN 3
+#define TOUCH_PIN 4
+#define BUTTON_STEP_TIMEOUT 100
+#define BUTTON_CLICK_TIMEOUT 500
+#define MIN_BRI 10
+#define MAX_BRI 255
