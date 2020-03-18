@@ -7,3 +7,6 @@
 - LM7805ABV
 - Electrolytic Capacitor 0.33 / 0.1
 - Rezistor 0.10Om
+
+## Schema
+- https://easyeda.com/mike1pol/led_mirror
