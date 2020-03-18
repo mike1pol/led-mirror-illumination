@@ -5,8 +5,8 @@
 - Arduino mini/nano
 - Mosfet-N
 - LM7805ABV
-- Electrolytic Capacitor 0.33 / 0.1
-- Rezistor 0.10Om
+- Electrolytic Capacitor 0.33 / 0.1 nf
+- Rezistor 0.10 Om
 
 ## Schema
 - https://easyeda.com/mike1pol/led_mirror
